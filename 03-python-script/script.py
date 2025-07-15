@@ -1,0 +1,1 @@
+print("Hola desde un script Python en Docker!")

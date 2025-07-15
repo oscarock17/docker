@@ -8,6 +8,7 @@ Este repositorio contiene una colección de ejercicios prácticos para aprender 
 |----|---------|-------------|
 | 01 | `01-hola-mundo` | Contenedor básico que imprime "Hola Mundo".
 | 02 | `02-nodejs-app` | Contenedor que levanta una app en node".
+| 03 | `03-python-script` | Contenedor que levanta un script en python".
 
 ## 📦 Requisitos
 
