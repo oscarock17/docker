@@ -13,7 +13,9 @@ Este repositorio contiene una colección de ejercicios prácticos para aprender 
 | 05 | [05-docker-compose-mysql](./05-docker-compose-mysql/) | Contenedor con docker compose de mysql cargando un script sql.
 | 06 | [06-php-puro](./06-php-puro/) | App en php puro con xdebug, postgres.
 
+## 📚 Recursos adicionales
 
+- [Comandos de Docker con descripción](./COMANDOS.md)
 
 ## 📦 Requisitos
 
