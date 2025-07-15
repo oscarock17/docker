@@ -11,6 +11,8 @@ Este repositorio contiene una colección de ejercicios prácticos para aprender 
 | 03 | [03-python-script](./03-python-script/) | Contenedor que levanta un script en python.
 | 04 | [04-nginx-static-site](./04-nginx-static-site/) | Contenedor con nginx y pagina estatica.
 | 05 | [05-docker-compose-mysql](./05-docker-compose-mysql/) | Contenedor con docker compose de mysql cargando un script sql.
+| 06 | [06-php-puro](./06-php-puro/) | App en php puro con xdebug, postgres.
+
 
 
 ## 📦 Requisitos
