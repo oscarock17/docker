@@ -6,7 +6,8 @@ Este repositorio contiene una colección de ejercicios prácticos para aprender 
 
 | Nº | Archivo | Descripción |
 |----|---------|-------------|
-| 01 | `01-hola-mundo.yml` | Contenedor básico que imprime "Hola Mundo".
+| 01 | `01-hola-mundo` | Contenedor básico que imprime "Hola Mundo".
+| 02 | `02-nodejs-app` | Contenedor que levanta una app en node".
 
 ## 📦 Requisitos
 
